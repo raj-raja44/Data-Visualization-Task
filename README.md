@@ -53,6 +53,7 @@ Create Visualizations
 Build Interactive Dashboard
        ↓
 Generate Business Insights
+```
 
 ## 📈 Dashboard Preview
 
